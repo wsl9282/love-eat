@@ -1,3 +1,5 @@
 # 忽略所有xlsx和png文件
 *.xlsx
 *.png
+__pycache__/
+*.pyc
